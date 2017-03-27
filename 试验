@@ -1,0 +1,9 @@
+#include <iostream>
+class Node{
+	int N;
+	Node next;
+}
+int main(){
+	Node first = new Node();
+	printf("Hello world");
+} 
